@@ -6,7 +6,7 @@ The Bus Reservation System is a simple project that allows users to book and vie
 
 Features
 
-----View available buses and routes
+----View available buses and the details of the bus
 
 ----Book a seat
 
